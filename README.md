@@ -97,31 +97,3 @@ If you find this script useful and want to show your appreciation, you can donat
 ## Support or Contact
 
 Encountering issues? Don't hesitate to submit an issue on our [GitHub page](https://github.com/Lalatenduswain/mysql_backup_db.sh/issues).
-
-Feel free to open an issue with the script name and relevant details.
-```
-
-### Steps to Add the `README.md` to Your Repository
-
-1. **Create the README file**:
-   Save the above content into a file named `README.md` in your repository's root directory:
-
-   ```bash
-   cd /path/to/mysql_backup_db.sh
-   nano README.md
-   ```
-
-2. **Commit the Changes**:
-   Add and commit the `README.md` file to your Git repository:
-
-   ```bash
-   git add README.md
-   git commit -m "Add README.md for backup_db.sh"
-   ```
-
-3. **Push the Changes**:
-   Push the changes to your GitHub repository:
-
-   ```bash
-   git push origin main
-   ```
