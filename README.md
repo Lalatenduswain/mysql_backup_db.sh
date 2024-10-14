@@ -79,8 +79,8 @@ db_2
 db_3
 db_4
 
-Enter the name of the database to backup: aws_v7Oct0424db
-Backup successful! File: /opt/Website-DB-Backup/aws_v7Oct0424db_2024-10-14_12:00:00.sql.gz
+Enter the name of the database to backup: db_1
+Backup successful! File: /opt/Website-DB-Backup/db_1.sql.gz
 Verification successful! The backup matches the original database.
 ```
 
